@@ -1,0 +1,16 @@
+# Compiled Executables and Build Artifacts
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# VS Code User Settings
+.vscode/
+
+# Optional: Uncomment the line below if you don't want to upload your raw save data
+# *.nexus
