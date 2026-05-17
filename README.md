@@ -10,9 +10,8 @@
 
 <br />
 
-<!-- 🎬 ENGINE SHOWCASE VIDEO -->
-<!-- Pro-Tip: Drag and drop your mp4 video file right here while editing on GitHub to auto-generate the video player tag! -->
-https://github.com
+<!-- 🎬 THE AUTOMATIC VIDEO PLAYER -->
+<video src="https://github.com" width="100%" autoplay loop muted playsinline></video>
 
 <br />
 
