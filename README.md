@@ -10,8 +10,8 @@
 
 <br />
 
-<!-- 🎬 THE AUTOMATIC VIDEO PLAYER -->
-<video src="https://github.com" width="100%" autoplay loop muted playsinline></video>
+<!-- 🎬 THE PLAYABLE VIDEO EMBED FIX -->
+[![Nexus Game Engine Update](https://youtube.com)](https://www.youtube.com/watch?v=Ysq5wOBsQrw)
 
 <br />
 
